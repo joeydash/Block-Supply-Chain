@@ -1,0 +1,33 @@
+{
+  "name": "gp_blockchain_works",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logic/truffle-config.js",
+  "scripts": {
+    "test": "truffle migrate --network ropsten",
+    "run": "node bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/joeydash111/gp_blockchain_works.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/joeydash111/gp_blockchain_works#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "debug": "^4.1.1",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-minify-html": "^0.12.0",
+    "growl": "^1.10.5",
+    "helmet": "^3.18.0",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.6.0",
+    "sitemap": "^3.2.0",
+    "socket.io": "^2.2.0",
+    "truffle": "^5.0.26"
+  }
+}
