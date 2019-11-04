@@ -1,4 +1,4 @@
-# Block-Supply-Chain :boom
+# Block-Supply-Chain :boom: :boom:
 
 ### This is a demo POC block chain app for supply chain using ethereum smart solidity and oracles
 
